@@ -1,0 +1,11 @@
+POST http://localhost:3000/api/v1/books/
+Content-Type: application/json
+
+{
+    "title": "Rethinking Productivity in Software Engineering",
+    "subtitle": "Software Engineering",
+    "author": "Caitlin Sadowski, Thomas Zimmermann",
+    "publisher": "Apress",
+    "pages": 310,
+    "description": "Get the most out of this foundational reference and improve the productivity of your software teams."
+}
