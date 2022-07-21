@@ -1,0 +1,37 @@
+{
+  "books": [
+    {
+      "id": "4a3d9aaa-608c-49a7-a004-66305ad4ab50",
+      "title": "Practical Modern JavaScript",
+      "subtitle": "Dive into ES6 and the Future of JavaScript Updated",
+      "author": "Nicolás Bevacqua",
+      "publisher": "O'Reilly Media",
+      "pages": 334,
+      "description": "To get the most out of modern JavaScript, you need learn the latest features of its parent specification, ECMAScript 6 (ES6). This book provides a highly practical look at ES6, without getting lost in the specification or its implementation details.",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "7/21/2022, 7:52:58 PM"
+    },
+    {
+      "id": "d8be2362-7b68-4ea4-a1f6-03f8bc4eede7",
+      "title": "Understanding ECMAScript 6",
+      "subtitle": "The Definitive Guide for JavaScript Developers",
+      "author": "Nicholas C. Zakas",
+      "publisher": "No Starch Press",
+      "pages": 352,
+      "description": "ECMAScript 6 represents the biggest update to the core of JavaScript in the history of the language. In Understanding ECMAScript 6, expert developer Nicholas C. Zakas provides a complete guide to the object types, syntax, and other exciting changes that ECMAScript 6 brings to JavaScript.",
+      "createdAt": "4/20/2022, 2:21:56 PM",
+      "updatedAt": "7/21/2022, 3:54:15 PM"
+    },
+    {
+      "id": "82ec5e3f-8d75-4223-a56e-6135ed759e98",
+      "title": "Pro Git Updated",
+      "subtitle": "Everything you neeed to know about Git",
+      "author": "Scott Chacon and Ben Straub",
+      "publisher": "Apress; 2nd edition",
+      "pages": 458,
+      "description": "Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world.",
+      "createdAt": "7/21/2022, 7:12:44 PM",
+      "updatedAt": "7/21/2022, 7:16:51 PM"
+    }
+  ]
+}
