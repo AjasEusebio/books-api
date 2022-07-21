@@ -1,0 +1,29 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "description": "Books Catalogue API.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "Node",
+    "API."
+  ],
+  "author": "Eusebio Ajas",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "2.0.19",
+    "standard": "17.0.0"
+  },
+  "dependencies": {
+    "express": "4.18.1",
+    "uuid": "^8.3.2"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
